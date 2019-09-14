@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-image: url(img/5994f46743e9d_thumb900.jpg);
+    color: #FFFFFF;
+    text-shadow: 0px 0px #FFFFFF;
+    font-weight: 900;
+    font-style: normal;
+    font-variant: normal;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: larger;
+    text-decoration: none;
+    text-align: center;
+}
+.t3 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-radius: 50px;
+}
